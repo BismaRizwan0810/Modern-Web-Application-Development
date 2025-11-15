@@ -1,0 +1,53 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    background: #f3f4f8;
+}
+
+.title {
+    font-size: 36px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: 40px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: #0d4ea1;
+}
+
+.sub-title {
+    font-size: 20px;
+    letter-spacing: 8px;
+    margin-top: 10px;
+}
+
+.description {
+    width: 70%;
+    margin: auto;
+    font-size: 15px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
+
+.table-heading {
+    margin-top: 40px;
+    font-size: 20px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+table {
+    width: 75%;
+    margin: 40px auto;
+    border-collapse: collapse;
+    border: 3px double #a6a6a6;
+}
+
+th, td {
+    border: 1px solid #b6b6b6;
+    padding: 12px 0;
+}
+
+th {
+    background: #e3e7ee;
+    font-weight: bold;
+}
