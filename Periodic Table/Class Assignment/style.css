@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef4ff;
+    text-align: center;
+    padding: 20px;
+}
+h1, h2 {
+    margin: 20px 0 10px;
+}
+table.ptable {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-color:#eef4ff;
+} 
+table.ptable.small td {
+    width: 60px;
+    height: 60px;
+}
+table.ptable td {
+    width: 40px;
+    height: 40px;
+    border: 1px solid#eef4ff;
+    padding: 6px;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 1px;
+    color: black;
+    
+}
+td span {
+    font-size: 12px;
+    font-weight: normal;
+    color: black;
+}
+.blue {
+    background: #0099cc;
+}
+.purple {
+    background: #6c4ae2;
+}
+.red {
+    background: #d93a3a;
+}
+.orange {
+    background: #ff7f27;
+}
+.green {
+    background: #28a745;
+}
+.gray {
+    background: #555;
+}
