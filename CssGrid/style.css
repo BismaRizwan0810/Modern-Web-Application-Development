@@ -10,10 +10,14 @@
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-rows: 50px 80px 50px;
+    grid-column-gap: 10px;
+    grid-row-gap: 15px;
+    justify-content: center;
+    align-items: center;
     
 }
 .grid-items{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-color: lightblue;
     padding: 20px;
     font-family: cursive;
